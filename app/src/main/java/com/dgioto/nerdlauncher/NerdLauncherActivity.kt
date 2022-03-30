@@ -13,7 +13,7 @@ import android.widget.TextView
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
-//page 508
+//page 512
 
 private const val TAG = "NerdLauncherActivity"
 
